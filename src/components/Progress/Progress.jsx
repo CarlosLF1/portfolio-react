@@ -21,7 +21,7 @@ const Progress = () => {
   },[run])
 
   return (
-    <div id="progress" ref={progressRef}>
+    <div id="progress" ref={progressRef} onClick={() => window.scrollTo(0, 0)}>
       <div ref={valueRef}>50%</div>
     </div>
   )
