@@ -153,3 +153,13 @@
   letter-spacing: 0.2rem;
   box-shadow: 0 0 12px #fff;
 }
+
+/* Responsiveness */
+@media (max-width: 865px) {
+  #home{
+    justify-content: center;
+  }
+  .home-text{
+    max-width: none;
+  }
+}

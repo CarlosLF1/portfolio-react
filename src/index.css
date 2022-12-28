@@ -19,6 +19,7 @@
   padding: 0;
   font-family: 'Poppins', sans-serif, 'Short Stack', cursive;
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 body {

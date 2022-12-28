@@ -44,7 +44,7 @@
 }
 
 .project-box:hover .p-overlayer {
-  top: -60px;
+  top: 0;
 }
 
 .github-btn {
@@ -76,4 +76,16 @@
 
 .swiper-pagination {
   bottom: 80px !important;
+}
+
+@media (max-width: 560px) {
+  .project-heading h3{
+    font-size: 1.7rem;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev{
+    top: 5.5% !important;
+    transform: scale(0.7);
+  }
 }

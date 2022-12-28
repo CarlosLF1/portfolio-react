@@ -34,3 +34,20 @@
   color: var(--grayColor);
   font-size: 1rem;
 }
+
+/* Responsiveness */
+@media (max-width: 865px) {
+  #summary{
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .summary-heading,
+  .summary-details{
+    max-width: none;
+  }
+
+  .summary-details{
+    margin-top: 30px;
+  }
+}

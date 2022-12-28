@@ -38,3 +38,16 @@
   font-size: 4rem;
   z-index: -1;
 }
+
+/* Responsiveness */
+@media (max-width: 760px) {
+.process-container{
+  grid-template-columns: 1fr 1fr;
+}
+}
+
+@media (max-width: 500px) {
+  .process-container {
+    grid-template-columns: 1fr;
+  }
+}

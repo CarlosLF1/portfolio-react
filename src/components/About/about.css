@@ -30,3 +30,18 @@
   color: var(--grayColor);
   margin: 10px 0;
 }
+
+@media (max-width: 740px) {
+  .about-container{
+    flex-wrap: wrap;
+  }
+
+  .about-heading{
+    width: 100%;
+  }
+
+  .about-details{
+    width: 100%;
+    margin-top: 30px;
+  }
+}

@@ -24,3 +24,10 @@
   margin-right: 4px;
   margin-top: 4px;
 }
+
+/* Responsiveness */
+@media (max-width: 665px) {
+  #languages{
+    grid-template-columns: 1fr;
+  }
+}

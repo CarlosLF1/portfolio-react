@@ -65,3 +65,25 @@
   text-align: center;
   margin-top: 50px;
 }
+
+@media (max-width: 600px) {
+  .career-education{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .career-education::before{
+    display: none;
+  }
+
+  .career{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .career-edu{
+    margin-top: 50px;
+  }
+}

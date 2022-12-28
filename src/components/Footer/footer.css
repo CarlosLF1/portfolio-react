@@ -33,3 +33,9 @@ footer .footer-logo {
   font-size: 1.3rem;
 }
 
+@media (max-width: 600px) {
+  footer{
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+}
