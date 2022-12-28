@@ -7,6 +7,7 @@ import Process from './components/Process/Process';
 import Projects from './components/Projects/Projects';
 import Career from './components/Career/Career';
 import About from './components/About/About';
+import Contact from './components/Contact/Contact';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
         <Projects />
         <Career />
         <About />
+        <Contact />
       </div>
     </>
   )
