@@ -7,6 +7,13 @@
   --blueColor: #689af8;
 }
 
+/* :root {
+  --bgColor: #fdfdfd;
+  --whiteColor: #000;
+  --grayColor: #bbb;
+  --blueColor: #689af8;
+} */
+
 * {
   margin: 0;
   padding: 0;
