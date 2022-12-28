@@ -4,6 +4,7 @@ import Home from './components/Home/Home';
 import Summary from './components/Summary/Summary';
 import Languages from './components/Languages/Languages';
 import Process from './components/Process/Process';
+import Projects from './components/Projects/Projects';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <Summary />
         <Languages />
         <Process />
+        <Projects />
       </div>
     </>
   )
