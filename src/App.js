@@ -6,6 +6,7 @@ import Languages from './components/Languages/Languages';
 import Process from './components/Process/Process';
 import Projects from './components/Projects/Projects';
 import Career from './components/Career/Career';
+import About from './components/About/About';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Process />
         <Projects />
         <Career />
+        <About />
       </div>
     </>
   )

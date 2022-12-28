@@ -61,7 +61,7 @@ const Projects = () => {
                   <a href={project.url}>
                    <img src={project.src} alt="project" />
                     <div className="p-overlayer">
-                    <strong>Reports</strong>
+                    <strong>App screenshots</strong>
                   </div>
                 </a>
               </div>
