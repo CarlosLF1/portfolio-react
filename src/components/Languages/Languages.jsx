@@ -17,7 +17,7 @@ const Languages = () => {
     }
   ]
   return (
-    <section id="languages">
+    <section id="languages" data-aos="fade">
       {
         data.map(item => (
           <div className='languages-box' key={item.title}>

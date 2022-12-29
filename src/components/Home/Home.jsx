@@ -5,14 +5,14 @@ import CarlosPic from "../../assets/Carlos.jpeg";
 const Home = () => {
   return (
     <section id="home">
-      <div className="home-text">
+      <div className="home-text" data-aos="fade-down">
         <strong>Hello, it's me</strong>
-        <h1>Carlos wiseManDev</h1>
+        <h1>Carlos Ferraz</h1>
         <p>This is all about me. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi nam soluta fugiat voluptatum accusamus quo voluptas earum ducimus, deserunt laudantium ipsam accusantium ullam nostrum quaerat expedita cupiditate odit dolorum blanditiis.</p>
         <a href='#summary' className='btn-link'>Scroll for more about me</a>
       </div>
 
-      <div className="home-img">
+      <div className="home-img" data-aos="fade-up">
         <div className="img-box">
           <img src={CarlosPic} alt="Carlos pic" />
 

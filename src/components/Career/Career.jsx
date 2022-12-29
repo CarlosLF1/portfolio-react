@@ -51,7 +51,7 @@ const Career = () => {
   return (
     <section id="career">
       <div className="career-education">
-        <div className="career">
+        <div className="career" data-aos="fade-right">
           <h3>Career</h3>
 
           <div className="c-b-container">
@@ -67,7 +67,7 @@ const Career = () => {
           </div>
         </div>
 
-         <div className="career-edu">
+         <div className="career-edu" data-aos="fade-left">
           <h3>Education</h3>
 
           <div className="c-b-container">

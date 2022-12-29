@@ -36,7 +36,7 @@ const Process = () => {
   ]
 
   return (
-    <section id="process">
+    <section id="process" data-aos="fade-down">
       <div className="process-heading">
         <h3>Process</h3>
       </div>

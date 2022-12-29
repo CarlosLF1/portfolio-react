@@ -3,7 +3,7 @@ import "./contact.css";
 
 const Contact = () => {
   return (
-    <section id="contact">
+    <section id="contact" data-aos="fade-down">
       <strong>Whats Next?</strong>
       <h3>Let's work together!</h3>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit voluptas porro ut adipisci </p>

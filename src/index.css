@@ -75,3 +75,7 @@ h3 {
   font-size: 3rem;
   letter-spacing: 2px;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}

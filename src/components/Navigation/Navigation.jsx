@@ -4,7 +4,7 @@ import "./navigation.css";
 const Navigation = () => {
   return (
     <nav className='navigation'>
-      <a href='#!' className='logo'>Carlos</a>
+      <a href='#!' className='logo'>Carlos.dev</a>
     </nav>
   )
 }
