@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <section id="home">
       <div className="home-text" data-aos="fade-down">
-        <strong>Hello, it's me</strong>
+        <strong>Howzit, it's me</strong>
         <h1>Carlos Ferraz</h1>
-        <p>This is all about me. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi nam soluta fugiat voluptatum accusamus quo voluptas earum ducimus, deserunt laudantium ipsam accusantium ullam nostrum quaerat expedita cupiditate odit dolorum blanditiis.</p>
+        <p>Obstacles are just challenges. My career has been filled with constant "change", this has never been something that I couldn't handle. In fact, I thrive in a changing environment and I love learning.</p>
         <a href='#summary' className='btn-link'>Scroll for more about me</a>
       </div>
 
@@ -19,16 +19,16 @@ const Home = () => {
           <h2>Carlos wiseManDev <br /><span>Full-Stack Developer</span></h2>
 
           <div className="social">
-            <a href='#!'>
+            <a href='https://github.com/CarlosLF1'>
               <i className="fa-brands fa-square-github"></i>
             </a>
 
-            <a href='#!'>
+            <a href='https://www.linkedin.com/in/carlos-ferraz-b205331/'>
               <i className="fa-brands fa-linkedin"></i>
             </a>
           </div>
 
-          <a href='#' className='hire-me'>Hire me</a>
+          <a href='mailto:carloslf@e.email' className='hire-me'>Hire me</a>
         </div>
       </div>
     </section>
