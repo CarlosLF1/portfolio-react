@@ -28,23 +28,23 @@ const Career = () => {
 
    const education = [
     {
-      title: "Full-stack Dev",
+      title: "Full-stack Web-Dev",
       name: "Student",
       year: "2021 - 2022"
     },
     {
-      title: "Growth Consultant",
-      name: "DoppelHaus",
-      year: "2021 - 2022"
+      title: "Masters in Business Administration",
+      name: "Business School Netherlands",
+      year: "2000 - 2003"
     },
     {
-      title: "Growth and business development SaaS",
-      name: "Artify & Uku",
-      year: "2022 - 2021"
+      title: "Marketing Management Dip",
+      name: "Institute of Marketing Management",
+      year: "prior"
     },
     {
       title: "Founder and growth specialist",
-      name: "Credo TM",
+      name: "Credo TM Entrepreneurship",
       year: "2006 - 2021"
     },
   ]

@@ -5,15 +5,15 @@ const Languages = () => {
   const data = [
     {
       title: "Languages",
-      contents: ["Html", "CSS", "JavaScript", "NodeJs", "Express"]
+      contents: ["Html5", "CSS3", "JavaScript", "React", "NodeJs", "Express"]
     },
     {
       title: "Software",
-      contents: ["VScode", "GitHub", "KanBan", "GIT"]
+      contents: ["VScode", "GitHub", "Agile tools & Methodologies", "GIT", "SQL Workbench"]
     },
     {
       title: "Database",
-      contents: ["SQL", "MongoDB", "Contentful"]
+      contents: ["SQL", "MongoDB", "Contentful","REST API's"]
     }
   ]
   return (

@@ -17,7 +17,7 @@ const Summary = () => {
 
       <div className="summary-details" data-aos="fade-left">
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id voluptatum minus odio provident numquam maxime laboriosam necessitatibus est, veniam a magnam odit recusandae qui molestiae totam laudantium, pariatur cupiditate dignissimos.
+          Call me a dreamer. I am a creative. thinking of new ideas and concepts are what drive me as a developer. Problem solving and planning are the backbone but the idea of breaking new ground is the thrill and the "high".
         </p>
       </div>
     </section>

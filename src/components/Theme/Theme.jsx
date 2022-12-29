@@ -7,7 +7,7 @@ const Theme = () => {
 
   useEffect(() => {
     if (dark) {
-      document.documentElement.style.setProperty('--bgColor', '#162052');
+      document.documentElement.style.setProperty('--bgColor', '#420276');
       document.documentElement.style.setProperty('--whiteColor', '#fff');
     } else {
       document.documentElement.style.setProperty('--bgColor', '#fff');

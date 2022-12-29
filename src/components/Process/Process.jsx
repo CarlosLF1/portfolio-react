@@ -6,32 +6,32 @@ const Process = () => {
     {
       id: "01",
       title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      contents: ["Research examples", "Persona", "Competition"]
     },
     {
       id: "02",
-      title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      title: "Pre-Planning",
+      contents: ["Set up goals", "Mapping", "Project folder", "Wire-frame"]
     },
     {
       id: "03",
-      title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      title: "Creative-Planning",
+      contents: ["Mood-board", "Color-pallets", "Fonts", "Dependencies required"]
     },
     {
       id: "04",
-      title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      title: "Pre-Build",
+      contents: ["Github repo set up", "Kanban timing and task log" ,"Time-tracker", "Task-separation"]
     },
     {
       id: "05",
-      title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      title: "Build",
+      contents: ["Collaborations set up", "BE - Server set up", "FE - Install dependencies and set up","Build"]
     },
     {
       id: "06",
-      title: "Pre-Process",
-      contents: ["Collect information", "Persona", "Set up goals/mapping", "Project folder + Moodboard"]
+      title: "Post-Build",
+      contents: ["Checklist before merge", "Finalise", "Prep-deployment", "Test & bug-fix", "Deploy"]
     },
   ]
 
