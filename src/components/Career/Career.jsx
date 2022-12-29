@@ -6,7 +6,7 @@ const Career = () => {
   const careers = [
     {
       title: "Full-stack Dev",
-      name: "Student",
+      name: "developer",
       year: "2021 - 2022"
     },
     {
