@@ -17,12 +17,12 @@ const Career = () => {
     {
       title: "Growth and business development SaaS",
       name: "Artify & Uku",
-      year: "2020 - 2021"
+      year: "2022 - 2021"
     },
     {
       title: "Founder and growth specialist",
       name: "Credo TM",
-      year: "2006 - 2020"
+      year: "2006 - 2021"
     },
   ]
 
@@ -45,7 +45,7 @@ const Career = () => {
     {
       title: "Founder and growth specialist",
       name: "Credo TM Entrepreneurship",
-      year: "2006 - 2020"
+      year: "2006 - 2021"
     },
   ]
   return (
